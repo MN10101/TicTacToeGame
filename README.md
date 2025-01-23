@@ -41,9 +41,9 @@ Welcome to the **Tic Tac Toe** game built with **C#** and **WPF**! 🤩 This is 
 
 Feel free to open issues or pull requests to suggest improvements or fix bugs! 🔧
 
-## ✨ Screenshots
+## ✨ Screen Recorder
 
-![Game Screenshot](path/to/screenshot.png)
+https://github.com/user-attachments/assets/11618ba1-05d4-466c-9d10-65f0fb0c989b
 
 ---
 
