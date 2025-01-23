@@ -3,6 +3,14 @@
 
 Welcome to the **Tic Tac Toe** game built with **C#** and **WPF**! 🤩 This is a simple 3x3 grid game where two players take turns marking the spaces on the grid, aiming to get three of their marks in a row, column, or diagonal. 🎯
 
+# Author
+-  Mahmoud Najmeh
+
+
+<img src="https://avatars.githubusercontent.com/u/78208459?u=c3f9c7d6b49fc9726c5ea8bce260656bcb9654b3&v=4" width="200px" style="border-radius: 50%;">
+
+---
+
 ## ⚙️ How to Run
 
 1. Clone this repository:
@@ -41,10 +49,12 @@ Welcome to the **Tic Tac Toe** game built with **C#** and **WPF**! 🤩 This is 
 
 Feel free to open issues or pull requests to suggest improvements or fix bugs! 🔧
 
+---
+
+Enjoy the game! 🎮 Let the best player win! 💪
+
 ## ✨ Screen Recorder
 
 https://github.com/user-attachments/assets/11618ba1-05d4-466c-9d10-65f0fb0c989b
 
----
 
-Enjoy the game! 🎮 Let the best player win! 💪
